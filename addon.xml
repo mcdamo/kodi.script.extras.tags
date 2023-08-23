@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.extras.tags" name="Extras Tags" version="1.0.0" provider-name="mcdamo">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+	<extension point="xbmc.python.script" library="addon.py"/>
+  <extension point="kodi.addon.metadata">
+    <news>Initial release</news>
+    <platform>all</platform>
+    <license>GPL-3.0-ONLY</license>
+    <source>https://github.com/mcdamo/kodi.script.extras.tags</source>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+  <summary lang="en_GB">Scan videos for Extras folders and add Tags</summary>
+  <description lang="en_GB">Scans all Movies and TV Shows for specially named Extras folders and adds a Tag to the database. Tagged media can then be easily filtered and Extras can be accessed via the 'Extras' context-menu addon.[CR][CR]Tip: for how to avoid extras beings scraped to library, see http://kodi.wiki/view/Add-on:Extras</description>
+</addon>
