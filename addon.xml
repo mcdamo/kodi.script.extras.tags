@@ -13,7 +13,7 @@
       <icon>icon.png</icon>
       <fanart>fanart.jpg</fanart>
     </assets>
+    <summary lang="en_gb">Scan videos for Extras folders and add Tags</summary>
+    <description lang="en_gb">Scans all Movies and TV Shows for specially named Extras folders and adds a Tag to the database. Tagged media can then be easily filtered and Extras can be accessed via the 'Extras' context-menu addon.[CR][CR]Tip: for how to avoid extras beings scraped to library, see http://kodi.wiki/view/Add-on:Extras</description>
   </extension>
-  <summary lang="en_GB">Scan videos for Extras folders and add Tags</summary>
-  <description lang="en_GB">Scans all Movies and TV Shows for specially named Extras folders and adds a Tag to the database. Tagged media can then be easily filtered and Extras can be accessed via the 'Extras' context-menu addon.[CR][CR]Tip: for how to avoid extras beings scraped to library, see http://kodi.wiki/view/Add-on:Extras</description>
 </addon>
